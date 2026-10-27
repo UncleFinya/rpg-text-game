@@ -1,0 +1,8 @@
+{
+  "id": "chef",
+  "name": "Шеф",
+  "health_points": 100,
+  "dialogue": {
+    "default": "Приветствую, путешественник."
+  }
+}
